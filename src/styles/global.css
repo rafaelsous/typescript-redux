@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*, html, body {
+  font-family: 'Nunito', sans-serif;
+  /* color: #f5f5f2; */
+  /* background: #121214; */
+}
+
+button, input, textarea {
+  font-family: 'Nunito', sans-serif;
+}
